@@ -1,0 +1,31 @@
+{
+  "name": "pizza_express",
+  "version": "1.0.0",
+  "description": "pizza admiration center",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tjkomor/pizza_express.git"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "Tyler Komoroske",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tjkomor/pizza_express/issues"
+  },
+  "homepage": "https://github.com/tjkomor/pizza_express#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.4.5",
+    "request": "^2.69.0"
+  }
+}
